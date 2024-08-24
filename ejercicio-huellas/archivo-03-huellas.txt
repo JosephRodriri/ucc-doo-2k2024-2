@@ -1,0 +1,9 @@
+total 4
+drwxrwxrwx 1 joseph joseph 4096 Aug 23 19:51 ./
+drwxrwxrwx 1 joseph joseph 4096 Aug 23 19:21 ../
+drwxrwxrwx 1 joseph joseph 4096 Aug 23 19:21 .git/
+-rwxrwxrwx 1 joseph joseph  290 Aug 23 19:21 .gitignore*
+-rwxrwxrwx 1 joseph joseph   47 Aug 23 19:21 README.md*
+-rwxrwxrwx 1 joseph joseph 2094 Aug 23 19:49 archivo-0.1-huellas.txt*
+-rwxrwxrwx 1 joseph joseph  113 Aug 23 19:50 archivo-02-huellas.txt*
+-rwxrwxrwx 1 joseph joseph    0 Aug 23 19:51 archivo-03-huellas.txt*
