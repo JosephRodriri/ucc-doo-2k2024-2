@@ -5,6 +5,7 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{B3DB8242-1FE5-4264-8311-7BE886CA5029}" Name="apuestas" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../20240913-apuestas/apuestas/apuestas.prj"/>
+		<Model Expanded="Yes" ID="{0AC2F538-743B-473E-B18B-276242E7555C}" Name="modelo" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../20240913-apuestas/apuestas/modelo.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
