@@ -4,8 +4,9 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{B3DB8242-1FE5-4264-8311-7BE886CA5029}" Name="apuestas" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../20240913-apuestas/apuestas/apuestas.prj"/>
-		<Model Expanded="Yes" ID="{0AC2F538-743B-473E-B18B-276242E7555C}" Name="modelo" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../20240913-apuestas/apuestas/modelo.pdm"/>
+		<Model ID="{B3DB8242-1FE5-4264-8311-7BE886CA5029}" Name="apuestas" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../20240913-apuestas/apuestas/apuestas.prj"/>
+		<Model Expanded="Yes" ID="{0AC2F538-743B-473E-B18B-276242E7555C}" Loaded="No" Name="modelo" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../20240913-apuestas/apuestas/modelo.pdm"/>
+		<Model Expanded="Yes" ID="{9F07C28F-05DB-446F-B2E1-EE5B44751B5B}" Name="Project_1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../Tarea-transipiales/Project_1/Project_1.prj"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
