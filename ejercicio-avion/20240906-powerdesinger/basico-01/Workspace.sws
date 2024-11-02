@@ -4,9 +4,12 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model ID="{B3DB8242-1FE5-4264-8311-7BE886CA5029}" Name="apuestas" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../20240913-apuestas/apuestas/apuestas.prj"/>
+		<Model ID="{B3DB8242-1FE5-4264-8311-7BE886CA5029}" Loaded="No" Name="apuestas" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../20240913-apuestas/apuestas/apuestas.prj"/>
 		<Model Expanded="Yes" ID="{0AC2F538-743B-473E-B18B-276242E7555C}" Loaded="No" Name="modelo" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../20240913-apuestas/apuestas/modelo.pdm"/>
-		<Model Expanded="Yes" ID="{9F07C28F-05DB-446F-B2E1-EE5B44751B5B}" Name="Project_1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../Tarea-transipiales/Project_1/Project_1.prj"/>
+		<Model Expanded="Yes" ID="{9F07C28F-05DB-446F-B2E1-EE5B44751B5B}" Loaded="No" Name="Project_1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../Tarea-transipiales/Project_1/Project_1.prj"/>
+		<Model Expanded="Yes" ID="{A736BF31-CDDB-41DB-9730-1DC9E283A037}" Loaded="No" Name="CitasMedicas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Talleres-20241101/SistemaGestionHospital/CitasMedicas.pdm"/>
+		<Model Expanded="Yes" ID="{BCFC704D-DB10-430D-8A92-975B15EBF6EC}" Loaded="No" Name="Project_2" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../Talleres-20241101/SistemaAlquilerVehiculos/Project_2/Project_2.prj"/>
+		<Model Expanded="Yes" ID="{F76A8C60-71BF-459B-8ABF-F8C59CD7BB46}" Name="Physical Data _1" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Talleres-20241101/SistemaAlquilerVehiculos/Project_2/Physical Data _1.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
