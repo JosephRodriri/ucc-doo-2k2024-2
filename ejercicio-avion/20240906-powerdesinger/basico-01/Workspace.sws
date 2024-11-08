@@ -9,7 +9,10 @@
 		<Model Expanded="Yes" ID="{9F07C28F-05DB-446F-B2E1-EE5B44751B5B}" Loaded="No" Name="Project_1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../Tarea-transipiales/Project_1/Project_1.prj"/>
 		<Model Expanded="Yes" ID="{A736BF31-CDDB-41DB-9730-1DC9E283A037}" Loaded="No" Name="CitasMedicas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Talleres-20241101/SistemaGestionHospital/CitasMedicas.pdm"/>
 		<Model Expanded="Yes" ID="{BCFC704D-DB10-430D-8A92-975B15EBF6EC}" Loaded="No" Name="Project_2" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../../Talleres-20241101/SistemaAlquilerVehiculos/Project_2/Project_2.prj"/>
-		<Model Expanded="Yes" ID="{F76A8C60-71BF-459B-8ABF-F8C59CD7BB46}" Name="Physical Data _1" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Talleres-20241101/SistemaAlquilerVehiculos/Project_2/Physical Data _1.pdm"/>
+		<Model Expanded="Yes" ID="{A736BF31-CDDB-41DB-9730-1DC9E283A037}" Loaded="No" Name="CitasMedicas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Talleres-20241101/SistemaGestionHospital/CitasMedicas.pdm"/>
+		<Model ID="{9F28897E-A6AE-4784-A8A2-1D329E23C07A}" Name="ModeloClasesE-comerce" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Tarea-08112024/SistemaE-Comerce/ModeloClasesE-comerce.pdm"/>
+		<Model Expanded="Yes" ID="{BF51FB8B-0B4E-425C-A351-AB5B990B3E05}" Name="DiagramaReservaHoteles" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Tarea-08112024/SistemaResevaHoteles/DiagramaReservaHoteles.pdm"/>
+		<Model Expanded="Yes" ID="{099DD550-AB75-4729-AD75-C264072A1527}" Name="DiagramaMontanaRusa" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../../Tarea-08112024/SistemaGestionMontanaRusa/DiagramaMontanaRusa.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
